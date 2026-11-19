@@ -1,0 +1,422 @@
+[
+  {
+    "actividad": "TS-11",
+    "puesto": 1,
+    "semana": 1,
+    "horas": 8
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 1,
+    "semana": 2,
+    "horas": 8
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 1,
+    "semana": 3,
+    "horas": 8
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 1,
+    "semana": 4,
+    "horas": 8
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 1,
+    "semana": 5,
+    "horas": 8
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 1,
+    "semana": 6,
+    "horas": 8
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 1,
+    "semana": 7,
+    "horas": 8
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 1,
+    "semana": 8,
+    "horas": 8
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 1,
+    "semana": 9,
+    "horas": 8
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 1,
+    "semana": 10,
+    "horas": 8
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 1,
+    "semana": 11,
+    "horas": 8
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 1,
+    "semana": 12,
+    "horas": 7
+  },
+  {
+    "actividad": "TS-01",
+    "puesto": 1,
+    "semana": 1,
+    "horas": 32
+  },
+  {
+    "actividad": "TS-02",
+    "puesto": 1,
+    "semana": 2,
+    "horas": 23
+  },
+  {
+    "actividad": "TS-10",
+    "puesto": 1,
+    "semana": 11,
+    "horas": 10
+  },
+  {
+    "actividad": "TS-12",
+    "puesto": 1,
+    "semana": 12,
+    "horas": 20
+  },
+  {
+    "actividad": "TS-01",
+    "puesto": 2,
+    "semana": 1,
+    "horas": 28
+  },
+  {
+    "actividad": "TS-02",
+    "puesto": 2,
+    "semana": 1,
+    "horas": 7
+  },
+  {
+    "actividad": "TS-03",
+    "puesto": 2,
+    "semana": 2,
+    "horas": 40
+  },
+  {
+    "actividad": "TS-03",
+    "puesto": 2,
+    "semana": 3,
+    "horas": 10
+  },
+  {
+    "actividad": "TS-04",
+    "puesto": 2,
+    "semana": 4,
+    "horas": 20
+  },
+  {
+    "actividad": "TS-05",
+    "puesto": 2,
+    "semana": 5,
+    "horas": 20
+  },
+  {
+    "actividad": "TS-06",
+    "puesto": 2,
+    "semana": 6,
+    "horas": 20
+  },
+  {
+    "actividad": "TS-07",
+    "puesto": 2,
+    "semana": 8,
+    "horas": 30
+  },
+  {
+    "actividad": "TS-08",
+    "puesto": 2,
+    "semana": 7,
+    "horas": 10
+  },
+  {
+    "actividad": "TS-09",
+    "puesto": 2,
+    "semana": 9,
+    "horas": 5
+  },
+  {
+    "actividad": "TS-10",
+    "puesto": 2,
+    "semana": 11,
+    "horas": 10
+  },
+  {
+    "actividad": "TS-01",
+    "puesto": 3,
+    "semana": 1,
+    "horas": 20
+  },
+  {
+    "actividad": "TS-02",
+    "puesto": 3,
+    "semana": 1,
+    "horas": 20
+  },
+  {
+    "actividad": "TS-02",
+    "puesto": 3,
+    "semana": 2,
+    "horas": 40
+  },
+  {
+    "actividad": "TS-03",
+    "puesto": 3,
+    "semana": 3,
+    "horas": 40
+  },
+  {
+    "actividad": "TS-03",
+    "puesto": 3,
+    "semana": 4,
+    "horas": 20
+  },
+  {
+    "actividad": "TS-05",
+    "puesto": 3,
+    "semana": 5,
+    "horas": 10
+  },
+  {
+    "actividad": "TS-06",
+    "puesto": 3,
+    "semana": 6,
+    "horas": 10
+  },
+  {
+    "actividad": "TS-08",
+    "puesto": 3,
+    "semana": 7,
+    "horas": 10
+  },
+  {
+    "actividad": "TS-10",
+    "puesto": 3,
+    "semana": 11,
+    "horas": 10
+  },
+  {
+    "actividad": "TS-03",
+    "puesto": 4,
+    "semana": 2,
+    "horas": 5
+  },
+  {
+    "actividad": "TS-04",
+    "puesto": 4,
+    "semana": 4,
+    "horas": 40
+  },
+  {
+    "actividad": "TS-04",
+    "puesto": 4,
+    "semana": 5,
+    "horas": 30
+  },
+  {
+    "actividad": "TS-05",
+    "puesto": 4,
+    "semana": 5,
+    "horas": 10
+  },
+  {
+    "actividad": "TS-05",
+    "puesto": 4,
+    "semana": 7,
+    "horas": 40
+  },
+  {
+    "actividad": "TS-06",
+    "puesto": 4,
+    "semana": 6,
+    "horas": 40
+  },
+  {
+    "actividad": "TS-06",
+    "puesto": 4,
+    "semana": 8,
+    "horas": 10
+  },
+  {
+    "actividad": "TS-07",
+    "puesto": 4,
+    "semana": 8,
+    "horas": 20
+  },
+  {
+    "actividad": "TS-09",
+    "puesto": 4,
+    "semana": 9,
+    "horas": 20
+  },
+  {
+    "actividad": "TS-10",
+    "puesto": 4,
+    "semana": 11,
+    "horas": 5
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 5,
+    "semana": 2,
+    "horas": 1
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 5,
+    "semana": 4,
+    "horas": 1
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 5,
+    "semana": 6,
+    "horas": 1
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 5,
+    "semana": 8,
+    "horas": 1
+  },
+  {
+    "actividad": "TS-11",
+    "puesto": 5,
+    "semana": 10,
+    "horas": 1
+  },
+  {
+    "actividad": "TS-03",
+    "puesto": 5,
+    "semana": 2,
+    "horas": 5
+  },
+  {
+    "actividad": "TS-04",
+    "puesto": 5,
+    "semana": 4,
+    "horas": 20
+  },
+  {
+    "actividad": "TS-05",
+    "puesto": 5,
+    "semana": 5,
+    "horas": 40
+  },
+  {
+    "actividad": "TS-05",
+    "puesto": 5,
+    "semana": 7,
+    "horas": 10
+  },
+  {
+    "actividad": "TS-06",
+    "puesto": 5,
+    "semana": 6,
+    "horas": 39
+  },
+  {
+    "actividad": "TS-06",
+    "puesto": 5,
+    "semana": 7,
+    "horas": 21
+  },
+  {
+    "actividad": "TS-07",
+    "puesto": 5,
+    "semana": 8,
+    "horas": 30
+  },
+  {
+    "actividad": "TS-09",
+    "puesto": 5,
+    "semana": 9,
+    "horas": 35
+  },
+  {
+    "actividad": "TS-10",
+    "puesto": 5,
+    "semana": 11,
+    "horas": 15
+  },
+  {
+    "actividad": "TS-02",
+    "puesto": 6,
+    "semana": 1,
+    "horas": 10
+  },
+  {
+    "actividad": "TS-04",
+    "puesto": 6,
+    "semana": 4,
+    "horas": 10
+  },
+  {
+    "actividad": "TS-05",
+    "puesto": 6,
+    "semana": 5,
+    "horas": 10
+  },
+  {
+    "actividad": "TS-06",
+    "puesto": 6,
+    "semana": 6,
+    "horas": 20
+  },
+  {
+    "actividad": "TS-07",
+    "puesto": 6,
+    "semana": 8,
+    "horas": 20
+  },
+  {
+    "actividad": "TS-08",
+    "puesto": 6,
+    "semana": 7,
+    "horas": 40
+  },
+  {
+    "actividad": "TS-08",
+    "puesto": 6,
+    "semana": 8,
+    "horas": 20
+  },
+  {
+    "actividad": "TS-08",
+    "puesto": 6,
+    "semana": 9,
+    "horas": 40
+  },
+  {
+    "actividad": "TS-09",
+    "puesto": 6,
+    "semana": 10,
+    "horas": 20
+  },
+  {
+    "actividad": "TS-10",
+    "puesto": 6,
+    "semana": 11,
+    "horas": 10
+  }
+]
